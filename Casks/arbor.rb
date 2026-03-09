@@ -1,6 +1,6 @@
 cask "arbor" do
-  version "20260309.01"
-  sha256 "17fbe514edb9c31c91e8f8ebfce50acf1360fdf4a4c57747fc1a1bc664432239"
+  version "20260309.02"
+  sha256 "a70e7dbedbeedcdbfef4158589052268fbe975f8536a6d569e7e0a6a835618fa"
 
   url "https://github.com/penso/arbor/releases/download/#{version}/Arbor-#{version}-universal2-apple-darwin.app.zip"
   name "Arbor"
